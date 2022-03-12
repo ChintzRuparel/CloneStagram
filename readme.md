@@ -15,7 +15,7 @@ Ways in which you can use Instagtories :-
 <ol>
 <li>As a button which will lead you to another page</li>
 <li>The way instagram uses it so the developer can ping in the newest offers (Check Culture Kings for reference)</li>
-<li>The Header can have this widget, Which can again give options like Your Bestsellers<\li>
+<li>The Header can have this widget, Which can again give options like Your Bestsellers
 </ol>
 
 <br> 
