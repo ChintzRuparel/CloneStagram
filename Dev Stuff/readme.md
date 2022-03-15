@@ -24,3 +24,6 @@ Ways in which you can use Instagtories :-
 
 Netlify Status -> 
 (After Complete Deployment)
+
+
+`all images are taken from Unplash`
