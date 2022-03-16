@@ -36,8 +36,19 @@ Preferred IDE - <a href="https://code.visualstudio.com/download">Download Visual
 
 Bootstrap (For Navbar) - <a href ="https://getbootstrap.com/">Boostrap Documentation</a>
 
+
+Also A user can Fetch Multiple Components 
+
+<ul>
+<li>Instagram Navbar</li>
+<li>Instagram Story Bar</li>
+<li>Instagram Posts</li>
+</ul>
+
+Live Deploy - <a href="https://theclonestagram.netlify.app/">Check it Out</a>
+
 ⚠️ There are Multiple files in this repository which were created in different stages of Devlopment In `Dev Stuff`
 
-<h2>Netlify Deploy Status</h2>
+<h2>Netlify Deploy Status - [![Netlify Status](https://api.netlify.com/api/v1/badges/af849c3a-db01-49d6-b8c6-bd763c96dfe4/deploy-status)](https://app.netlify.com/sites/theclonestagram/deploys)</h2>
 
 
