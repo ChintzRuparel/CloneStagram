@@ -49,6 +49,6 @@ Live Deploy - <a href="https://theclonestagram.netlify.app/">Check it Out</a>
 
 ⚠️ There are Multiple files in this repository which were created in different stages of Devlopment In `Dev Stuff`
 
-<h2>Netlify Deploy Status - [![Netlify Status](https://api.netlify.com/api/v1/badges/af849c3a-db01-49d6-b8c6-bd763c96dfe4/deploy-status)](https://app.netlify.com/sites/theclonestagram/deploys)</h2>
+Netlify Deploy Status -  [![Netlify Status](https://api.netlify.com/api/v1/badges/af849c3a-db01-49d6-b8c6-bd763c96dfe4/deploy-status)](https://app.netlify.com/sites/theclonestagram/deploys)
 
 
