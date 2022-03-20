@@ -5,7 +5,7 @@
 <p>CLONE + INSTAGRAM = CloneStagram</p>
 
 <p>
-Instagram has become an important and need to know Social Medi app. 
+Instagram has become an important and need to know Social Media app. 
 Clonestagram is a clone of Instagram Made in Pure HTML and CSS. 
 It has been deployed using bootstrap and Mutiple Libraries. 
 
