@@ -1,6 +1,6 @@
-<h1>CloneStagram</h1>
+<h1>CloneStagram🤳</h1>
 
-<h1>What is CloneStagram?</h1>
+<h1>What is CloneStagram?🤳</h1>
 
 <p>CLONE + INSTAGRAM = CloneStagram</p>
 
@@ -12,7 +12,7 @@ It has been deployed using bootstrap and Mutiple Libraries.
 Javascript was also used but the major languages included HTML and CSS 
 </p>
 
-<h3>This Repository was developed in Multiple phases as that can be seen in earlier versions of this REPO</h3>
+<h3>This Repository was developed in Multiple phases as that can be seen in earlier versions of this REPO 🦦</h3>
 
 <ul>
 <li>Only Instagram Stories (For Single User) </li>
@@ -24,7 +24,7 @@ Javascript was also used but the major languages included HTML and CSS
 
 `✔️Deployed Using Netlify`
 
-<h3>Future Plans</h3>
+<h3>Future Plans👿</h3>
 <ul>
 <li>Deploy Post Page</li>
 <li>Make Direct Message Page</li>
@@ -37,7 +37,7 @@ Preferred IDE - <a href="https://code.visualstudio.com/download">Download Visual
 Bootstrap (For Navbar) - <a href ="https://getbootstrap.com/">Boostrap Documentation</a>
 
 
-Also A user can Fetch Multiple Components 
+Also A user can Fetch Multiple Components👣
 
 <ul>
 <li>Instagram Navbar</li>
@@ -45,10 +45,10 @@ Also A user can Fetch Multiple Components
 <li>Instagram Posts</li>
 </ul>
 
-Live Deploy - <a href="https://theclonestagram.netlify.app/">Check it Out</a>
+Live Deploy - <a href="https://theclonestagram.netlify.app/">Check it Out ✅</a>
 
 ⚠️ There are Multiple files in this repository which were created in different stages of Devlopment In `Dev Stuff`
 
-Netlify Deploy Status -  [![Netlify Status](https://api.netlify.com/api/v1/badges/af849c3a-db01-49d6-b8c6-bd763c96dfe4/deploy-status)](https://app.netlify.com/sites/theclonestagram/deploys)
+Netlify Deploy Status⏳ -  [![Netlify Status](https://api.netlify.com/api/v1/badges/af849c3a-db01-49d6-b8c6-bd763c96dfe4/deploy-status)](https://app.netlify.com/sites/theclonestagram/deploys)
 
 
